@@ -7,7 +7,7 @@ def read(fname):
 
 
 setup(
-    name="QM How to Opensource CHP",
+    name="hello_chp",
     version="0.0.1",
     author="Grégoire Martinon, Vianney Taquet, Damien Hervault",
     author_email="gmartignon@quantmetry.com",
