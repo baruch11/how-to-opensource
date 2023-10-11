@@ -22,7 +22,7 @@ copyright = '2021, Grégoire Martinon, Vianney Taquet, Damien Hervault'
 author = 'Grégoire Martinon, Vianney Taquet, Damien Hervault'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.8'
+release = '0.0.9'
 
 
 # -- General configuration ---------------------------------------------------
