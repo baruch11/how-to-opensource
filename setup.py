@@ -25,6 +25,8 @@ setup(
     long_description_content_type='text/x-rst',
     classifiers=[
         "License :: OSI Approved :: BSD License",
-        "Programming Language :: Python :: 2.3"
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
     ],
 )
