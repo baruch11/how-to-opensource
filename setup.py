@@ -8,7 +8,7 @@ def read(fname):
 
 setup(
     name="hello_chp",
-    version="0.0.3",
+    version="0.0.4",
     author="Grégoire Martinon, Vianney Taquet, Damien Hervault",
     author_email="gmartignon@quantmetry.com",
     description="A Quantmetry tutorial on how to publish an opensource python package.",
